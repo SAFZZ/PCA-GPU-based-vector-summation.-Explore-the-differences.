@@ -27,8 +27,8 @@ Save and Run the Program.
 ### (i) 
 ### block.x=1023
 ```
-Name : Sowmiya N
-Register No : 212221230106
+Name : SAFA
+Register No : 212220230040
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
